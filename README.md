@@ -4,3 +4,5 @@ This project is about creating a covid 19 visualization map, the data used in th
 this project could be helpful with one small edit, instead of using a data file, I had an idea about linking the app with the official Covid19 platform like WHO dashboard and scrap the data and update my map automatically. 
 
 A picture of the current version of the project.
+
+https://drive.google.com/file/d/1ZwXuRwoS0k7TRGNWW6Q4Kd0MX93SEopc/view?usp=sharing
